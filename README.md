@@ -2,7 +2,7 @@
 
 - 👩‍💻 Sou desenvolvedora web, atualmente trabalho tanto com front-end, quanto back-end, as tecnologias que mais utilizo no dia a dia são Ruby on Rails e Vue.js. 
 - 🧐 Gosto bastante de ajudar o pessoal que está começando na área de desenvolvimento, estou produzindo alguns conteúdos junto com Jera para tentar contribuir.
-- 🌱 Tenho me empenhado em aprender novas tecnologias para ampliar meu conhecimento, atualmente estou estudando ReactJS e Unity3D com C#. 
+- 🌱 Tenho me empenhado em aprender novas tecnologias para ampliar meu conhecimento, atualmente estou estudando ReactJS e desenvolvimento de jogos Unity com C#. 
 
 
 ## Alguns conteúdos produzidos
