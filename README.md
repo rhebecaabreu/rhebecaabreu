@@ -1,7 +1,7 @@
 ### Olá mundo 👋
 
 - Software Engineer (front-end/back-end) 
-- Principais linguagens: Ruby on Rails, Vue.js, HTML&CSS, Javascript
+- Principais tecnologias: Ruby on Rails, Vue.js, HTML&CSS, Javascript
 - Atualmente estudando mais sobre React.js
 - Bacharel em Engenharia de Software pela UFMS
 - Cursando especialização em Engenharia de Software na PUC Minas
