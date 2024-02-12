@@ -1,11 +1,9 @@
 ### Olá mundo 👋
 
-- Software Engineer (front-end/back-end) 
+- FullStack Software Engineer
 - Principais tecnologias: Ruby on Rails, React.js, Vue.js, HTML&CSS, Javascript
-- Atualmente estudando mais sobre MongoDB e aprofundando conhecimentos em Ruby
 - Bacharel em Engenharia de Software pela UFMS
-- Cursando especialização em Engenharia de Software na PUC Minas
-
+- Especialização em Engenharia de Software pela PUC Minas
 
 #### Alguns conteúdos produzidos
 - [Artigo - Introdução ao Git - Blog da Jera](https://jera.com.br/blog/6620/desenvolvimento/guia-do-dev-iniciante-introducao-ao-git)
